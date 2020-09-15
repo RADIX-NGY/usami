@@ -1398,6 +1398,11 @@ renovation
   padding: 40px 30px;
   background: #fff;
 }
+
+.newhome #main04 {
+  position: relative;
+  padding: 40px 30px;
+}
 .renovation #main04 .items {
   position: relative;
   padding: 0 30px;
