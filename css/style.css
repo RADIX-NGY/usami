@@ -1385,14 +1385,15 @@ renovation
   padding-bottom: 10px;
 }
 .renovation #main03,
-.newhome #main02 {
+.newhome #main01 {
   background-color: #f0ede7;
 }
 .renovation #main04 {
   position: relative;
   background: #ebf1f6;
 }
-.renovation #main04 .outer {
+.renovation #main04 .outer,
+.newhome #main02 {
   position: relative;
   padding: 40px 30px;
   background: #fff;
